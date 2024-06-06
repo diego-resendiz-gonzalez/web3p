@@ -1,0 +1,59 @@
+h1 {
+    color: rgb(255, 177, 60);
+    background-color: rgb(129, 42, 42);
+    text-align: center;
+    text-transform: uppercase;
+}
+.areaBonita {
+    border: 1px;
+    border-radius: 5%;
+    background-color: rgb(255, 177, 60);
+    height: 58px;
+    width: 150px;
+    font-size: 20px;
+}
+.label1 {
+    padding-right: 10px;
+    font-size: 20px;
+    color: rgb(255, 177, 60);
+
+    input{
+        font-size: 20px;
+        color: rgb(255, 255, 255);
+        background-color: brown;
+    }
+
+
+}
+.label2{
+    padding-right: 20px;
+    font-size: x-large;
+    
+    input{
+        font-size: 20px;
+        color: rgb(255, 177, 60);
+        background-color: rgb(255, 177, 60);
+    }
+}
+.label3{
+    font-size: 20px;
+    color: rgb(255, 177, 60);
+
+    input{
+        font-size: 20px;
+        color: rgb(255, 255, 255);
+        background-color: brown;
+    }
+}
+.label4{
+    padding-right: 20px;
+    font: caption;
+    font-size: 20px;
+    color: rgb(255, 177, 60);
+
+    input{
+        font-size: 20px;
+        color:  rgb(255, 255, 255);
+        background-color: brown;
+    }
+}
